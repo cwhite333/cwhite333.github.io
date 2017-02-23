@@ -27,7 +27,7 @@ Colors can be input as rgb - 'rgb(r,g,b)' - or hex - #123456
 }
 
 .nav-element {
-	color: auto;
+	color: red;
 	background: auto;
 	/*border: 1px solid white;*/
 }
