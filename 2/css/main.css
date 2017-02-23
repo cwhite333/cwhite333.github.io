@@ -57,17 +57,17 @@ Colors can be input as rgb - 'rgb(r,g,b)' - or hex - #123456
 }
 
 .side-title {
-	color: #72A2C0;
-	/*background: #D3D3D3;*/
-	background: auto;
+	color: white;
+	background: #696969;
+	/*background: auto;*/
 	border: 1px solid black;
 }
 
 .side-element {
-	/*color: #696969;
-	background: white;*/
-	color: #72A2C0;
-	background: auto;
+	color: #696969;
+	background: white;
+	/*color: #72A2C0;
+	background: auto;*/
 	border: .5px solid black;
 }
 
