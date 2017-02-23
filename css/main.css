@@ -1,5 +1,4 @@
-*** COLORS ***/
-/*
+*
 Change div colors and border styles here
 For those unfamiliar with CSS:
 	'color' refers to font color
@@ -57,17 +56,17 @@ Colors can be input as rgb - 'rgb(r,g,b)' - or hex - #123456
 }
 
 .side-title {
-	color: white;
+	color: #72A2C0;
 	/*background: #D3D3D3;*/
-	background: #72A2C0;
+	background: auto;
 	border: 1px solid black;
 }
 
 .side-element {
 	/*color: #696969;
 	background: white;*/
-	color: white;
-	background: #72A2C0;
+	color: #72A2C0;
+	background: auto;
 	border: .5px solid black;
 }
 
